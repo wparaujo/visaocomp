@@ -13,3 +13,6 @@ camera:
 
 build:
 	docker build -t compvision:verao .
+
+install:
+	pip install -r requirements.txt
