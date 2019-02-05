@@ -10,4 +10,4 @@ pydotplus==2.0.2
 ipython==7.0.1
 profilehooks==1.10.0
 pydot==1.2.4
-opencv-python==4.0.0.21
+opencv-python==3.4.5.20
