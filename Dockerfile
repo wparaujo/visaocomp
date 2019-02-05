@@ -4,6 +4,7 @@ ENV JUPYTER_ENABLE_LAB=yes
 
 WORKDIR /app
 COPY requirements.txt ./
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 RUN apt-get update && apt-get install libgtk2.0-dev -y
 
