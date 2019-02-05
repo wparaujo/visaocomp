@@ -8,3 +8,5 @@
 /.doit.db.dat
 /.doit.db.dir
 **/.DS_Store
+
+output.*
