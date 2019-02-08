@@ -25,9 +25,11 @@ make install ## executa instalação das dependências encontradas no arquivo re
 
 <img src='./images/grupo1/img400x_1.png' width="130" > <img src='./images/grupo1/img400x_2.png' width="130" > <img src='./images/grupo1/img400x_3.png' width="130" >
 
-Original
+
+### original
 <img src='./images/image1.png' width="400" >
 
-Costurada
+
+### costurada
 <img src='./image1_saida_referencia.png' width="400" >
 
